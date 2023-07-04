@@ -1,0 +1,54 @@
+.cabecalho {
+        background-color: #ff7300;
+        display: flex;
+        justify-content: space-around;
+        align-items: center;
+        padding: 12px 0;
+}
+
+header{
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+}  
+
+body{
+    background-color: rgb(255, 255, 255);
+}
+
+
+.intro{
+    text-align: left;
+    font-size: 20px;
+    padding: 24px 0;
+    margin-right: 25px; 
+    margin-left: 25px;
+}
+.imagem-intro{
+    padding: 20px;
+    align-items: left;
+}
+
+.titulos{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 50px;
+    text-align: center;
+}
+
+.mododepreparo{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 24px 0;
+    font-size: 20px;
+    margin-right: 25px; 
+    margin-left: 25px;
+}
+
+.itens{
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 24px 0;
+    font-size: 20px;
+    text-align: left;
+}
+
+.rodape{
+background-color: #ffffff;
+}
